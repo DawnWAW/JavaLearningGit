@@ -1,43 +1,41 @@
 import java.lang.reflect.Array;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 /**
- * ²âÊÔÈçºÎ·´×ªÒ»¸öÕûĞÎÊıÁĞ
+ * æµ‹è¯•å¦‚ä½•åè½¬ä¸€ä¸ªæ•´å½¢æ•°åˆ—
  * 
  * @author Dawn
- * @version 1.1
+ * @version 1.2
  */
 public class ArrayReverse<T> {
     /**
-     * ÓÃÓÚ·´×ªÒ»¸öÕûĞÎµÄÊıÁĞ
+     * ç”¨äºåè½¬ä¸€ä¸ªæ•´å½¢çš„æ•°åˆ—
      * 
-     * @param arr Ò»¸öÕûĞÎµÄÊıÁĞ£¬³¤¶ÈÎŞÏŞÖÆ
-     * @return ·µ»ØÒ»¸ö·´×ªºóµÄÕûĞÎÊıÁĞ
+     * @param list éœ€è¦è¿›è¡Œè½¬æ¢çš„æ•°ç»„
+     * @return è¿”å›ä¸€ä¸ªåè½¬åçš„æ•´å½¢æ•°åˆ—
      */
-    public static <T> T[] reverse(T[] arr) {
-        T[] reversed = (T[]) Array.newInstance(arr.getClass().getComponentType(), arr.length);
-        for (int i = 0; i < arr.length; i++) {
-            reversed[i] = arr[arr.length - 1 - i];
-        }
-        return reversed;
+    public static <T> ArrayList<T> reverse(ArrayList<T> list) {
+        ArrayList<T> reversedList = new ArrayList<>();
+        reversedList.addAll(list.reversed());
+        return reversedList;
     }
 
     /**
-     * ÓÃÓÚÊä³öÒ»¸öÊıÁĞµÄÔªËØ£¬°´ÕÕ´ÓÍ·µ½Î²µÄË³Ğò£¬ÔªËØÖ®¼äÒÔÒ»¸ö¿Õ¸ñ¸ô¿ª£¬Êä³ö½áÊøºó»»ĞĞ
-     * 
-     * @param arr Ò»¸öÕûĞÎµÄÊıÁĞ£¬³¤¶ÈÎŞÏŞÖÆ
+     * ç”¨äºè¾“å‡ºä¸€ä¸ªæ•°åˆ—çš„å…ƒç´ ï¼ŒæŒ‰ç…§ä»å¤´åˆ°å°¾çš„é¡ºåºï¼Œå…ƒç´ ä¹‹é—´ä»¥ä¸€ä¸ªç©ºæ ¼éš”å¼€ï¼Œè¾“å‡ºç»“æŸåæ¢è¡Œ
+     * @param arr ä¸€ä¸ªæ•´å½¢çš„æ•°åˆ—ï¼Œé•¿åº¦æ— é™åˆ¶
      */
-    public static <T> void printArray(T[] arr) {
-        for (T i : arr) {
-            System.out.print(i + " ");
+    public static <T> void printArray(ArrayList<T> arr) {
+        for (T t : arr) {
+            System.out.print(t + " ");
         }
-        System.out.println();
+       System.out.println();
     }
 
     public static void main(String[] args) {
-        Integer arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 0 };
+        ArrayList<Character> arr = new ArrayList<>(Arrays.asList('a','b','c','d','e'));
         printArray(arr);
-        Integer[] reversedArr = reverse(arr);
-        printArray(reversedArr);
-
+        arr = reverse(arr);
+        printArray(arr);
     }
 }
