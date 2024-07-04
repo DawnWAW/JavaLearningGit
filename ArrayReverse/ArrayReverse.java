@@ -3,17 +3,17 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 /**
- * æµ‹è¯•å¦‚ä½•åè½¬ä¸€ä¸ªæ•´å½¢æ•°åˆ—
+ * ²âÊÔÈçºÎ·´×ªÒ»¸öÕûĞÎÊıÁĞ
  * 
  * @author Dawn
  * @version 1.2
  */
 public class ArrayReverse<T> {
     /**
-     * ç”¨äºåè½¬ä¸€ä¸ªæ•´å½¢çš„æ•°åˆ—
+     * ÓÃÓÚ·´×ªÒ»¸öÕûĞÎµÄÊıÁĞ
      * 
-     * @param list éœ€è¦è¿›è¡Œè½¬æ¢çš„æ•°ç»„
-     * @return è¿”å›ä¸€ä¸ªåè½¬åçš„æ•´å½¢æ•°åˆ—
+     * @param list ĞèÒª½øĞĞ×ª»»µÄÊı×é
+     * @return ·µ»ØÒ»¸ö·´×ªºóµÄÕûĞÎÊıÁĞ
      */
     public static <T> ArrayList<T> reverse(ArrayList<T> list) {
         ArrayList<T> reversedList = new ArrayList<>();
@@ -22,18 +22,19 @@ public class ArrayReverse<T> {
     }
 
     /**
-     * ç”¨äºè¾“å‡ºä¸€ä¸ªæ•°åˆ—çš„å…ƒç´ ï¼ŒæŒ‰ç…§ä»å¤´åˆ°å°¾çš„é¡ºåºï¼Œå…ƒç´ ä¹‹é—´ä»¥ä¸€ä¸ªç©ºæ ¼éš”å¼€ï¼Œè¾“å‡ºç»“æŸåæ¢è¡Œ
-     * @param arr ä¸€ä¸ªæ•´å½¢çš„æ•°åˆ—ï¼Œé•¿åº¦æ— é™åˆ¶
+     * ÓÃÓÚÊä³öÒ»¸öÊıÁĞµÄÔªËØ£¬°´ÕÕ´ÓÍ·µ½Î²µÄË³Ğò£¬ÔªËØÖ®¼äÒÔÒ»¸ö¿Õ¸ñ¸ô¿ª£¬Êä³ö½áÊøºó»»ĞĞ
+     * 
+     * @param arr Ò»¸öÕûĞÎµÄÊıÁĞ£¬³¤¶ÈÎŞÏŞÖÆ
      */
     public static <T> void printArray(ArrayList<T> arr) {
         for (T t : arr) {
             System.out.print(t + " ");
         }
-       System.out.println();
+        System.out.println();
     }
 
     public static void main(String[] args) {
-        ArrayList<Character> arr = new ArrayList<>(Arrays.asList('a','b','c','d','e'));
+        ArrayList<Character> arr = new ArrayList<>(Arrays.asList('a', 'b', 'c', 'd', 'e'));
         printArray(arr);
         arr = reverse(arr);
         printArray(arr);
