@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"ArrayAdd","l":"add(int)"},{"p":"<Unnamed>","c":"ArrayAdd","l":"ArrayAdd()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"ArrayAdd","l":"delete()"},{"p":"<Unnamed>","c":"ArrayAdd","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"ArrayAdd","l":"printArray(int[])"}];updateSearchResults();

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="591823b9-7247-4859-ba6b-7a9b2ab016fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/ArrayAdd/ArrayAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/ArrayAdd/ArrayAdd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/ArrayAdd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/legal/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayAdd/DOC/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/ArrayReverse/ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/ArrayReverse/ArrayReverse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/ArrayReverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/JavaCode/ArrayReverse/ArrayReverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/JavaCode/ArrayReverse/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/JavaCode/ArrayReverse/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/JavaCode/ArrayReverse/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayReverse/DOC/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/CommentDoc/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/CommentDoc/Comment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/Comment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CommentDoc/Doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLearningGit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoconvert/autoconvert/AutoConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoconvert/autoconvert/AutoConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/importTest/importTest/importTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/ArrayAdd/ArrayAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/ArrayReverse/ArrayReverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/CommentDoc/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/ArrayAdd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/ArrayReverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/Comment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/JavaCode/ArrayReverse/ArrayReverse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/JavaCode/ArrayReverse/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/JavaCode/ArrayReverse/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/JavaCode/ArrayReverse/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/allclasses-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/allclasses-noframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/index-all.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/legal/COPYRIGHT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/package-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/script-dir/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/script-dir/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/script-dir/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/DOC/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaLearningGit/autoconvert/AutoConvert.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2jEuiOEL4azj9fq3vZbXi2MvMKk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "JavaCode",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program_Java\VsCodeLearning\JavaLearningGit\JavaLearning\src" />
+      <recent name="D:\Program_Java\VsCodeLearning\JavaLearningGit\JavaLearning\CalenderPrinter" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="591823b9-7247-4859-ba6b-7a9b2ab016fe" name="Changes" comment="" />
+      <created>1720964684863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720964684863</updated>
+    </task>
+    <servers />
+  </component>
+</project>
