@@ -1,3 +1,4 @@
+package ArrayAdd;
 import java.util.Scanner;
 
 /**
